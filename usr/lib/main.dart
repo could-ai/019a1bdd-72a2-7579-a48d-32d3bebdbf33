@@ -94,7 +94,7 @@ class PropertyDetailsPage extends StatelessWidget {
                     ?.copyWith(fontWeight: FontWeight.bold)),
             const Divider(),
             _buildFeatureItem(Icons.location_on, '13 km away from Ooty'),
-            _buildFeatureItem(Icons.road_ramp, 'Motorable road'),
+            _buildFeatureItem(Icons.edit_road, 'Motorable road'),
             _buildFeatureItem(Icons.water_drop, 'Water Source available'),
             _buildFeatureItem(Icons.landscape, 'High elevation & Scenic views'),
             _buildFeatureItem(Icons.business, 'Suitable for Commercial'),
